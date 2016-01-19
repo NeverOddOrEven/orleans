@@ -116,5 +116,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelloWorldGrains\HelloWorldGrains.csproj">
+      <Project>{943794e3-f54e-4678-b225-b45018344aec}</Project>
+      <Name>HelloWorldGrains</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
