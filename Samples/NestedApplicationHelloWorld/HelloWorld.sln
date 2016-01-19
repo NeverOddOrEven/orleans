@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldHost", "HelloWorl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowWorldClient", "HellowWorldClient\HellowWorldClient.csproj", "{B4B0F00F-2BC8-413F-8F21-F534F9FD8EF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldServices", "HelloWorldServices\HelloWorldServices.csproj", "{214419B6-F0A8-4808-B53C-AED7363A8744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,14 @@ Global
 		{B4B0F00F-2BC8-413F-8F21-F534F9FD8EF3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4B0F00F-2BC8-413F-8F21-F534F9FD8EF3}.Release|x64.ActiveCfg = Release|Any CPU
 		{B4B0F00F-2BC8-413F-8F21-F534F9FD8EF3}.Release|x86.ActiveCfg = Release|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Release|x64.ActiveCfg = Release|Any CPU
+		{214419B6-F0A8-4808-B53C-AED7363A8744}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
